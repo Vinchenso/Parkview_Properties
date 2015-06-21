@@ -1,7 +1,8 @@
 Magister - single-page Bootstrap template
 =============
 
-Magister is a free responsive, single-page HTML5 template base on Twitter Bootstrap framework. 
+Magister is a free responsive, single-page HTML5 template base on Twitter Bootstrap framework.
+Its also edited by Vinchenso Kendall 
 
 
 License
